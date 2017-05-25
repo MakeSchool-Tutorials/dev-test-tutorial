@@ -1,5 +1,5 @@
 ---
-title: Setting Up Xcode
+title: Get Started with Xcode!
 slug: installing-xcode
 ---
 
