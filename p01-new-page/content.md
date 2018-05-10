@@ -1,6 +1,6 @@
 ---
-title: Get Tested with Xcode!
-slug: installing-xcode
+title: I'm a new title
+slug: jf0849q8j
 ---
 
 gleep glop
