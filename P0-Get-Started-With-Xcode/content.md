@@ -9,6 +9,8 @@ You should be on macOS Sierra (10.13.2+) and have Xcode 8.2+. **DO NOT INSTALL A
 
 Let's get our tools set up.
 
+I'm looking to see if this sentence gets added.
+
 # Checking macOS
 
 Click the 🍎 button on the top left of your Mac screen and click `About this Mac`. It should say `macOS High Sierra` and `Version 10.13.2`. If it does not say `macOS High Sierra`, go [here](https://itunes.apple.com/us/app/macos-high-sierra/id1246284741?mt=12) and install High Sierra.
