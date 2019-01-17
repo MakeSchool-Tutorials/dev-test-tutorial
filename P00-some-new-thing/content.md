@@ -1,6 +1,6 @@
 ---
 title: new first page
-slug: jf0849q8jsdfsdf
+slug: overview
 ---
 
 I'm some new page
