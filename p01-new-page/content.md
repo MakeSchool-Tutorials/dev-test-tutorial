@@ -128,6 +128,7 @@ if containsIndentation {
 ### Controlling syntax highlights
 
 We have two new tags that can be added into code blocks to give you some control over formatting.
+
 - `[none]` will keep things from being passed through syntax highlighting. This can be useful when showing terminal output.
 - `[bold]` will bolden the text after syntax highlighting is applied. This can be useful for bringing attention to newly added lines of code.
 - Make sure to always include the closing tag.
