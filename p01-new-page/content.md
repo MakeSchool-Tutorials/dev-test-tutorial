@@ -138,10 +138,10 @@ We have two new tags that can be added into code blocks to give you some control
 ```
 // Code within fenced code blocks should be left-aligned!
 print("Hello, Make School!")
-[none]print("Follow each language's style guide.")[/none]
+[none]print("This has no syntax highlighting")[/none]
 
-[bold]if containsIndentation {
-  print("Be consistent with number of spaces in indentation.")
+[bold]if bold {
+  print("It displays bold like this")
 }[/bold]
 ```
 
